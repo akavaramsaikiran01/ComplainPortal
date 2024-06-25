@@ -83,5 +83,5 @@ function handleChangePassword(event) {
 
 function handleLogout(event) {
   event.preventDefault();
-  window.location.href = 'C:/Users/akava/Desktop/Project/complaint portal/LoginPage/login.html';
+  window.location.href = 'C:/Users/akava/Desktop/Project/complaint portal/LoginPage/index.html';
 }

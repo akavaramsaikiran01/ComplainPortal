@@ -42,7 +42,7 @@ submitButton.addEventListener('click', () => {
 });
 
 backButton.addEventListener('click', () => {
-  // Navigate back to the login page
+  // Navigate back to the index page
 //   alert("clicker");
-  window.location.href = 'C:/Users/akava/Desktop/Project/complaint portal/LoginPage/login.html';
+  window.location.href = 'C:/Users/akava/Desktop/Project/complaint portal/LoginPage/index.html';
 });
